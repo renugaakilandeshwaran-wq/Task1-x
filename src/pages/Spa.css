@@ -1,0 +1,39 @@
+.spa-container {
+    padding: 120px 40px;
+    max-width: 1000px;
+    margin: auto;
+    text-decoration: none;
+}
+
+.spa-container h1 {
+    text-align: center;
+    color: #1e3a8a;
+    margin-bottom: 20px;
+}
+
+.spa-container p {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.spa-card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.spa-card h2 {
+    color: #1e3a8a;
+    margin-bottom: 10px;
+}
+
+.spa-card ul {
+    padding-left: 20px;
+}
+
+.spa-card li {
+    list-style: none;
+    line-height: 35px;
+}

@@ -1,0 +1,40 @@
+.restaurant-container {
+    max-width: 1000px;
+    margin: 120px auto 40px;
+    padding: 20px;
+}
+
+.restaurant-container h1 {
+    text-align: center;
+    color: #1e3a8a;
+    margin-bottom: 20px;
+}
+
+.restaurant-container p {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.restaurant-card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.restaurant-card h2 {
+    color: #1e3a8a;
+    margin-bottom: 10px;
+}
+
+.restaurant-card ul {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.restaurant-card li {
+    margin-bottom: 8px;
+    list-style: none;
+    padding-top: 20px;
+}
