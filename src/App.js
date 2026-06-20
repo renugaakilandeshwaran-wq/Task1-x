@@ -27,7 +27,7 @@ import Dashboard from "./pages/Dashboard";
 import "./assets/logo.png";
 import Gallery from "./pages/Gallery";
 import "./pages/Gallery.css";
-import HotelCard from "./components/HotelCard";
+
 function App() {
   return (
     <BrowserRouter>
